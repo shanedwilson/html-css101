@@ -7,8 +7,6 @@ Basically a products page for a business
 ## Screenshots
 
 ​![main screenshot](./screenshots/biscuit-widget1.png)
-![second screenshot](./biscuit-widget2.png)
-![third screenshot](./biscuit-widget3.png)
 
 ## How to run this project:
 
